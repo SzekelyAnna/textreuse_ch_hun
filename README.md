@@ -6,7 +6,10 @@ Viscosity Revisited: The Power of Legislatures in New and Old Democracies
 A Comparative Text Reuse Analysis
 
 By Miklós Sebők - Pascal Sciarini - Julien M. Jaquet - Tamás Berki – Flóra Bolonyai
+
 Please do not quote or cite!
+
+
 
 
 Workflow
