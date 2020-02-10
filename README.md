@@ -24,8 +24,8 @@ B. Swiss bills (raw datasets can be downloaded from https://cap.tk.mta.hu/en)
 	1. text_pre_processing.R includes all steps starting from input bills and output bills folders
 
 C. regression & figures
-	1. regression_figures.R uses Swiss_bills_2019_10.csv and hun_bills.xlsx and input files
+	1. regression_figures.R uses Swiss_bills.csv and hun_bills.xlsx and input files
 
 D. plots & figures
-	1. descriptive_plots uses Swiss_bills_2019_10.csv and hun_bills.xlsx and input files
-	2. appendix_figures.R uses full_data_nov19.xlsx as input file
+	1. descriptive_plots uses Swiss_bills.csv and hun_bills.xlsx and input files
+	2. appendix_figures.R uses full_data.xlsx as input file
