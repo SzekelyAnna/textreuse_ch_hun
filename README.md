@@ -1,4 +1,4 @@
-# textreuse_ch_hun
+# Sebők - Sciarini - Jaquet - Berki – Bolonyai (2020)
 
 Paper replication (draft version)
 
